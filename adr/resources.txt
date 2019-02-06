@@ -1,0 +1,5 @@
+https://github.com/joelparkerhenderson/architecture_decision_record#how-to-start-using-adrs-with-tools
+
+https://adr.github.io/
+
+https://kevinjalbert.com/start-now-architecture-decision-records/
